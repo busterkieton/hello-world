@@ -1,2 +1,2 @@
-# hello-world
+GIT INTRO # hello-world
 git training
